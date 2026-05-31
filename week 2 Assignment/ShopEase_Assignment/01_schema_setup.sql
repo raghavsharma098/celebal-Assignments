@@ -1,6 +1,3 @@
--- Schema setup for the ShopEase database
--- Works on MySQL 8+ (also fine on PostgreSQL 13+ with minor tweaks)
-
 CREATE DATABASE IF NOT EXISTS shopease;
 USE shopease;
 

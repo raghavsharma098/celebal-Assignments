@@ -1,8 +1,3 @@
--- ShopEase E-Commerce Database - master script
--- Runs everything in order. Target: MySQL 8+
--- Usage:  mysql -u root -p < 00_master_run_all.sql
--- Or inside the MySQL shell:  SOURCE /full/path/to/00_master_run_all.sql
-
 SOURCE 01_schema_setup.sql;
 SOURCE 02_data_insertion.sql;
 SOURCE 03_section_A_basics.sql;

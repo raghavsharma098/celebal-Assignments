@@ -1,5 +1,3 @@
--- Sample data for the ShopEase database
-
 INSERT INTO customers VALUES
 (101, 'Aarav',  'Sharma', 'aarav.s@email.com',  'Mumbai',     'Maharashtra', '2024-01-15', TRUE),
 (102, 'Priya',  'Patel',  'priya.p@email.com',  'Ahmedabad',  'Gujarat',     '2024-02-20', FALSE),
